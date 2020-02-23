@@ -1,0 +1,68 @@
+{
+  "profile": [
+    {
+      "question": "名前",
+      "answer": [
+        {
+          "text": "友広 隆行（トモヒロ　タカユキ）"
+        }
+      ]
+    },
+    {
+      "question": "職業",
+      "answer": [
+        {
+          "text": "トータルリハビリテーションセンター代表"
+        }
+      ]
+    },
+    {
+      "question": "誕生日",
+      "answer": [
+        {
+          "text": "12月10日"
+        }
+      ]
+    },
+    {
+      "question": "出身地",
+      "answer": [
+        {
+          "text": "神奈川県中郡二宮町"
+        }
+      ]
+    },
+    {
+      "question": "居住地",
+      "answer": [
+        {
+          "text": "東京都港区南青山"
+        }
+      ]
+    },
+    {
+      "question": "血液型",
+      "answer": [
+        {
+          "text": "O型"
+        }
+      ]
+    },
+    {
+      "question": "資格",
+      "answer": [
+        {
+          "text": "普通自動車免許"
+        }
+      ]
+    },
+    {
+      "question": "趣味",
+      "answer": [
+        {
+          "text": "インターネット"
+        }
+      ]
+    }
+  ]
+}
